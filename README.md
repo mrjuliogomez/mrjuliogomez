@@ -6,7 +6,7 @@ once the kitesurfing photo is uploaded to this repo. -->
 
 I'm a curious person by nature, always looking for an excuse to learn something new or run down an idea. I keep myself fit with a daily workout habit, and I love getting outdoors, kitesurfing is my current obsession.
 
-My career has revolved around the rollout of fintech operations in new market entries, but I find myself drawn to applied AI (Artificial Intelligence), a field I find fascinating. Backed by a background in digital innovation, I spend much of my time experimenting with frontier models (LLMS), building things that would have sounded like science fiction a few years ago.
+My career has revolved around the rollout of fintech operations in new market entries, but I find myself drawn to applied AI (Artificial Intelligence), a field I find fascinating. Backed by a background in digital innovation and a great deal of curiosity, I spend much of my time experimenting with frontier models (LLMS), building things that would have sounded like science fiction a few years ago.
 
 ## 🛠️ What I'm working on
 
