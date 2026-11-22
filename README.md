@@ -13,6 +13,20 @@ My career has revolved around the rollout of fintech operations in new market en
 - **Market entry advisory:** advising tier-one international organisations through their entry to the Iberian market, product positioning and building distribution network channels for sustainable growth.
 - **AI engineering:** learning the ropes of AI engineering, and currently have a handful of agents in production across advisory workflows, automating inbox triage, CRM, social media multichannel content publishing and KPI tracking.
 
+## 🤖 Agents in production
+
+Every agent below runs on real work, and each link opens the full write-up with its architecture, failure modes and measured impact in [agentic-deployments](https://github.com/mrjuliogomez/agentic-deployments).
+
+- [CRM discovery follow-ups](https://github.com/mrjuliogomez/agentic-deployments/tree/main/deployments/crm-discovery-followups) drafts the daily follow-up for every lead that is due and routes replies to me.
+- [CRM opportunity logger](https://github.com/mrjuliogomez/agentic-deployments/tree/main/deployments/crm-opportunity-logger) registers engaged opportunities in the Partner network's portal every night.
+- [CRM record sanitiser](https://github.com/mrjuliogomez/agentic-deployments/tree/main/deployments/crm-record-sanitiser) cleans, researches and deduplicates prospect cards every night.
+- [CRM KPI dashboard](https://github.com/mrjuliogomez/agentic-deployments/tree/main/deployments/crm-kpi-dashboard) delivers the ten most important owed tasks every week, read across email and the CRM.
+- [Email inbox intelligence](https://github.com/mrjuliogomez/agentic-deployments/tree/main/deployments/email-inbox-intelligence) triages the inbox into meetings, tasks, project updates and filing.
+- [Partner onboarding form filler](https://github.com/mrjuliogomez/agentic-deployments/tree/main/deployments/partner-onboarding-form-filler) turns one email address into a complete client onboarding packet.
+- [Context MCP server](https://github.com/mrjuliogomez/agentic-deployments/tree/main/deployments/context-mcp-server) gives every agent shared memory backed by git, with guarded writes.
+- [Editorial publishing](https://github.com/mrjuliogomez/agentic-deployments/tree/main/deployments/editorial-publishing) researches, writes and publishes Iberian business news every day.
+- [Editorial series](https://github.com/mrjuliogomez/agentic-deployments/tree/main/deployments/editorial-series) publishes a weekly long-form culture essay on three channels from a curated topic queue.
+
 ## 🧰 Tech I work with
 
 **GenAI / Models:** ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=googlecloud&logoColor=white) ![Imagen](https://img.shields.io/badge/Imagen-34A853?style=flat&logo=google&logoColor=white) ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat&logo=perplexity&logoColor=white) ![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=flat&logoColor=white) ![OpenArt](https://img.shields.io/badge/OpenArt-6E56CF?style=flat&logoColor=white) ![Bearly](https://img.shields.io/badge/Bearly-333333?style=flat&logoColor=white) ![Model Context Protocol](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat&logo=modelcontextprotocol&logoColor=white)
@@ -35,5 +49,6 @@ My career has revolved around the rollout of fintech operations in new market en
 
 ## 📬 Get in touch
 
+- 📄 [My CV online](https://mrjuliogomez.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mrjuliogomez/)
 - 📧 julio.gomez@iberotech.com
