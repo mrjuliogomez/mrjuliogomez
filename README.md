@@ -6,12 +6,12 @@ once the kitesurfing photo is uploaded to this repo. -->
 
 I'm a curious person by nature, always looking for an excuse to learn something new or run down an idea. I keep myself fit with a daily workout habit, and I love getting outdoors, kitesurfing is my current obsession.
 
-My career has revolved around the rollout of fintech operations in new market entries, but I find myself drawn to applied AI (Artificial Intelligence), a field I find fascinating. Backed by a background in digital innovation and a great deal of curiosity, I spend much of my time experimenting with frontier models (LLMS), building things that would have sounded like science fiction a few years ago.
+My career has revolved around the rollout of fintech operations in new market entries, but I find myself drawn to applied AI (Artificial Intelligence), a field I find fascinating. Backed by a background in digital innovation and a great deal of curiosity, I spend much of my time experimenting with frontier models (LLMs), building things that would have sounded like science fiction a few years ago.
 
 ## 🛠️ What I'm working on
 
-- **Market entry advisory:** advising tier-one international organisations through their entry to the Iberian market, product positioning and building distribution network channels for sustainable growth.
-- **AI engineering:** learning the ropes of AI engineering, and currently have a handful of agents in production across advisory workflows, automating inbox triage, CRM, social media multichannel content publishing and KPI tracking.
+- **Market entry advisory** for tier-one international organisations entering the Iberian market, from product positioning to building the distribution network channels that sustain growth.
+- **AI engineering** where I design, build and run the agents in production listed below, automating inbox triage, CRM operations, multichannel content publishing and KPI tracking.
 
 ## 🤖 Agents in production
 
