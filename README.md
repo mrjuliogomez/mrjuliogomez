@@ -45,7 +45,7 @@ Every agent below runs on real work, and each link opens the full write-up with 
 
 **Data & ops:** ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=airtable&logoColor=white) ![Asana](https://img.shields.io/badge/Asana-F06A6A?style=flat&logo=asana&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=googlesheets&logoColor=white) ![Google Slides](https://img.shields.io/badge/Google_Slides-FBBC04?style=flat&logo=googleslides&logoColor=black) ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white) ![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=flat&logo=googlecalendar&logoColor=white) ![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=flat&logo=googledrive&logoColor=white) ![Google Meet](https://img.shields.io/badge/Google_Meet-00897B?style=flat&logo=googlemeet&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logoColor=white) ![Voluum](https://img.shields.io/badge/Voluum-6C5CE7?style=flat&logoColor=white)
 
-**Product & UX:** ![Balsamiq](https://img.shields.io/badge/Balsamiq-CC0000?style=flat&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logoColor=white)
+**Product & UX:** ![Balsamiq](https://img.shields.io/badge/Balsamiq-CC0000?style=flat&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logoColor=white) ![Microsoft Visio](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=flat&logoColor=white)
 
 ## 📬 Get in touch
 
